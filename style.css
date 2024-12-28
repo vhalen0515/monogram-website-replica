@@ -296,7 +296,7 @@ header svg:hover {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url("/assets/hero-img.webp");
+    background-image: url("./assets/hero-img.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
