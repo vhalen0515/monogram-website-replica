@@ -1,4 +1,4 @@
-import { products } from "./data.js";
+import { products } from "/data.js";
 
 const currencyBtn = document.getElementById("nav--btn-currency");
 const currencyList = document.querySelector(".nav--list-currency");
